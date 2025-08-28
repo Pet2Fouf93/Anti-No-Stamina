@@ -16,4 +16,5 @@
 
 ## Utilisation 
 
-Pour l'installer il suffit de télécharger la version compilée (.exe) dans les releases
+Pour l'installer il suffit de [Télécharger la version compilée](https://github.com/Pet2Fouf93/Anti-No-Stamina/releases/tag/version)
+
